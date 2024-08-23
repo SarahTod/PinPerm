@@ -15,7 +15,7 @@
 ## 🛠️ Installation
 
 1. **Download and Install:**
-   - Visit the Firefox Add-ons website and search for "PinPerm."
+   - Visit the Firefox Add-ons website and search for "PinPerm" or [click here](https://addons.mozilla.org/en-US/firefox/addon/pinperm/).
    - Click `Add to Firefox` and follow the prompts to install the extension.
 
 2. **Permissions:**
