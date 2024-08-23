@@ -51,9 +51,9 @@ For further support, visit the support page on the Firefox Add-ons website. You 
 
 ## 📅 Version History
 
-- **v1.0.0:** Initial release with basic permanent tab pinning functionality.
-- **v1.1.0:** Improved integration with Firefox’s native pin/unpin buttons.
-- **v1.2.0:** Performance optimizations.
+- **v0.0.1:** Initial release with basic permanent tab pinning functionality.
+- **v0.1.0:** Improved integration with Firefox’s native pin/unpin buttons.
+- **v1.0.0:** Performance optimizations.
 
 ## 📜 License
 
