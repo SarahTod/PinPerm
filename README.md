@@ -1,2 +1,2 @@
 # PinPerm
-Firefox extension that keeps your tabs pinner permanently
+Firefox extension that keeps your tabs pinned permanently
